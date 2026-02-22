@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (Do NOT upload)
+data/
+clean_data.csv
+
+# Virtual environment
+venv/
+.env
+
+# PyCharm
+.idea/
